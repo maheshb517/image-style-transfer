@@ -1,4 +1,4 @@
-# 🎨 Enhanced Neural Style Transfer using VGG‑19 and Gram Matrix
+p# 🎨 Enhanced Neural Style Transfer using VGG‑19 and Gram Matrix
 
 > A deep learning‑based system for artistic style transfer combining the structural patterns of one image with the textures of another — delivering photo‑realistic stylizations with advanced performance benchmarking.
 
@@ -34,9 +34,11 @@ The project has been **published in FMDB Transactions on Sustainable Computing S
 
 Clone the repository and install dependencies:
 
-git clone https://github.com/your-username/enhanced-nst.git
-cd enhanced-nst
-pip install -r requirements.txt
+<pre>git clone https://github.com/your-username/enhanced-nst.git</pre>
+
+<pre>cd enhanced-nst</pre>
+
+<pre>pip install -r requirements.txt</pre>
 
 
 All dependencies (TensorFlow, PyTorch, Matplotlib, LPIPS, timm, scikit-image, Pillow, pandas) are available on PyPI.
@@ -48,11 +50,11 @@ These versions are chosen to be cross-compatible with **TensorFlow ≥2.13** and
 
 If your project runs on lower hardware tiers or CPU only, you can uninstall GPU CUDA packages automatically with:
 
-pip uninstall nvidia-cublas-cu12 nvidia-cudnn-cu12 torch torchvision
+<pre>pip uninstall nvidia-cublas-cu12 nvidia-cudnn-cu12 torch torchvision</pre>
 
 To install everything:
 
-pip install -r requirements.txt
+<pre>pip install -r requirements.txt</pre>
 
 ---
 
