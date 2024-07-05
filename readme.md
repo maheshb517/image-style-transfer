@@ -2,7 +2,7 @@
 
 > A deep learning‑based system for artistic style transfer combining the structural patterns of one image with the textures of another — delivering photo‑realistic stylizations with advanced performance benchmarking.
 
-<!-- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)]()
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.13+-red.svg)]()
