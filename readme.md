@@ -110,7 +110,7 @@ Ensure any updates are thoroughly documented.
 ## 💬 Contact
 
 For academic inquiries or collaboration opportunities, please contact:  
-**nawazsheriffkn@gmail.com**
+**nawazsheriffkn@gmail.com** / **maheshbalabalrajkumar@gmail.com** / **rogitsudharshan81@gmail.com**
 
 ---
 
