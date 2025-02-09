@@ -1,24 +1,26 @@
 # image-style-transfer
 
-### FOLDER STRUCTURE 
-THE_FOLDER_YOU_CREATE_IN_LOCAL_MACHINE/
-│── CLONED_REPOSITORY
+
+# Folder Structure
+
+PROJECT_ROOT/
+│
+├── CLONED_REPO/
 │   ├── .ipynb_checkpoints/
 │   ├── andrei_rublev/
-│   ├── custom styles/
-│   ├── daVinci/
-│   ├── picasso/
+│   ├── custom_styles/
+│   │   ├── daVinci/
+│   │   └── picasso/
 │   ├── README.md
-│   ├── requirements.txt
-│── dataset/
+│   └── requirements.txt
+│
+├── dataset/
 
-## Project Directory Structure
 
-<pre> ## Project Directory Structure ``` PROJECT_ROOT/ ├── code/ │ ├── .ipynb_checkpoints/ │ ├── andrei_rublev/ │ ├── custom styles/ │ ├── daVinci/ │ ├── picasso/ │ ├── README.md │ ├── requirements.txt ├── dataset/ ├── test/ ``` </pre>
 
 1. CREATE A FOLDER IN YOUR LOCAL MACHINE 
 2. CLONE THE REPO INTO THE FOLDER
 3. PLACE THE DATASET IN THE SAME HEIRARCHY AS OF THE REPOSITORY 
 4. CREATE A PYTHON ENVIRONMENT EITHER BY USING CONDA OR PIP OR UV IF U PREFER A DISPOSABLE ENVIRONMENT
-4. RUN pip install -r requirements.txt
+4. RUN <pre>pip install -r requirements.txt</pre>
 4. RUN THE CODE IN THE NOTEBOOK
