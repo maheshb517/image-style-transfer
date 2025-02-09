@@ -1,0 +1,6 @@
+tensorflow
+matplotlib
+numpy
+pillow
+ipython
+pickle5  # Only needed if using Python <3.8, otherwise pickle is built-in
