@@ -3,20 +3,9 @@
 
 # Folder Structure
 
-PROJECT_ROOT/
-│
-├── CLONED_REPO/
-│   ├── .ipynb_checkpoints/
-│   ├── andrei_rublev/
-│   ├── custom_styles/
-│   │   ├── daVinci/
-│   │   └── picasso/
-│   ├── README.md
-│   └── requirements.txt
-│
-├── dataset/
+1. REFER TO foldre_structure.txt FOR DETAILED FOLDER STRUCTURE
 
-
+# STEPS TO RUN THE PROJECT
 
 1. CREATE A FOLDER IN YOUR LOCAL MACHINE 
 2. CLONE THE REPO INTO THE FOLDER

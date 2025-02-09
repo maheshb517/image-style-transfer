@@ -1,0 +1,12 @@
+PROJECT_ROOT/
+│
+├── CLONED_REPO/
+│   ├── .ipynb_checkpoints/
+│   ├── andrei_rublev/
+│   ├── custom_styles/
+│   │   ├── daVinci/
+│   │   └── picasso/
+│   ├── README.md
+│   └── requirements.txt
+│
+├── dataset/
