@@ -12,6 +12,9 @@ THE_FOLDER_YOU_CREATE_IN_LOCAL_MACHINE/
 │   ├── requirements.txt
 │── dataset/
 
+## Project Directory Structure
+
+PROJECT_ROOT/ ├── code/ │ ├── .ipynb_checkpoints/ │ ├── andrei_rublev/ │ ├── custom styles/ │ ├── daVinci/ │ ├── picasso/ │ ├── README.md │ ├── requirements.txt ├── dataset/ ├── test/
 
 1. CREATE A FOLDER IN YOUR LOCAL MACHINE 
 2. CLONE THE REPO INTO THE FOLDER
